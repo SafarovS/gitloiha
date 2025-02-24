@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Loiha</title>
+</head>
+<body>
+    <header>
+        <h1>Wlcome to my project</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+            <h2>our products</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia hic delectus facilis tenetur quos adipisci ipsam dolorum esse nam corporis temporibus iste impedit illo eligendi vitae fuga, minus voluptas provident!</p>
+        </div>
+    </main>
+    <footer>
+        &copy; Copyright Reserved 2025
+    </footer>
+</body>
+</html>
